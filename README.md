@@ -83,17 +83,6 @@ The project is tested manually through the console. Run `python main.py` and fol
 
 **Fine formula used:** `250 + ((days - 8) // 7) * 10` for `days > 7`.
 
-## Screenshots
-
-_Add screenshots of the program running here (optional but recommended):_
-
-```
-![Main menu](screenshots/menu.png)
-![Adding a book](screenshots/add_book.png)
-![Issuing a book](screenshots/issue_book.png)
-![Fine calculation](screenshots/fine.png)
-```
-
 ## Author
 
-Your Name – Your Registration Number / Course
+Your Name – 26BAI10100 / CSE1021
